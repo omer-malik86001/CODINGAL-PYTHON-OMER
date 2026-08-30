@@ -1,0 +1,1 @@
+print("hi i am omer i am a good boy hi i am ome")
