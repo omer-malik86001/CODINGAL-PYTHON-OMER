@@ -1,0 +1,10 @@
+details={
+    "name":"omer",
+    "age":11,
+    "grade":8,
+    "games":["fifa","fortnite"]
+}
+print(type(details))
+print(details["games"])
+details["food"]="pizza"
+print(details)
