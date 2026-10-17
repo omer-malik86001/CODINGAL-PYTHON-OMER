@@ -1,0 +1,4 @@
+print("I")
+for i in range(6)
+print(range)
+print()
